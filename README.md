@@ -36,7 +36,7 @@ Key findings were visualized using Power BI, creating an interactive dashboard t
 #### Total expenses for the month of February, 2024.
 
 
-
+![image alt](https://github.com/isaacayeni225/My-Daily-Expenses-Tracker/blob/0932d809bda67962f7c5ea4843ad60669d4eaae6/FEB.png)
 
 #### Insights and Recommendations
 Key Findings
