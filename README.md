@@ -44,6 +44,12 @@ Key findings were visualized using Power BI, creating an interactive dashboard t
 
 ![image alt](https://github.com/isaacayeni225/My-Daily-Expenses-Tracker/blob/90b9e36dc745194f957b7a93976697e674e3b952/MAR.png)
 
+
+### Total expenses for the month of April, 2024.
+
+
+
+
 ### Insights and Recommendations
 Key Findings
 In Q1 2024, mobile data and miscellaneous expenses accounted for 16% of total expenses. However, this decreased to 8% in Q2 2024.
