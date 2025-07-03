@@ -1,5 +1,5 @@
 # My-Daily-Expenses-Tracker
-### Analysis of my Daily Expenses for the First Half of 2024
+### Analysis of my Daily Expenses for the First Half of 2025
 ## OVERVIEW 
 This project extracts and analyzes data from my daily expenses tracker, aiming to track and reduce unnecessary expenses. The analysis focuses on my daily spending behavior and the relevance of goods and services purchased. Key findings include:
 
@@ -25,42 +25,66 @@ Key findings were visualized using Power BI, creating an interactive dashboard t
 - May: ₦76,520
 - June: ₦73,890
 
-### Visual Analysis and Inference
+### Visual Analysis, Insights and Inference
 
-### Total expenses for the month of January, 2024.
+Key Findings
+In Q1 2025, mobile data and miscellaneous expenses accounted for 16% of total expenses. However, this decreased to 8% in Q2 2025.
+
+
+
+
+### Total expenses for the month of January, 2025.
+
 
 
 ![image alt](https://github.com/isaacayeni225/My-Daily-Expenses-Tracker/blob/014bbe2c334e1003f77676f7af72f56ff7f0f97c/JAN.png)
 
 
-### Total expenses for the month of February, 2024.
+
+
+### Total expenses for the month of February, 2025.
+
 
 
 ![image alt](https://github.com/isaacayeni225/My-Daily-Expenses-Tracker/blob/0932d809bda67962f7c5ea4843ad60669d4eaae6/FEB.png)
 
 
-### Total expenses for the month of March, 2024.
+
+
+### Total expenses for the month of March, 2025.
+
 
 
 ![image alt](https://github.com/isaacayeni225/My-Daily-Expenses-Tracker/blob/90b9e36dc745194f957b7a93976697e674e3b952/MAR.png)
 
 
-### Total expenses for the month of April, 2024.
+
+
+### Total expenses for the month of April, 2025.
+
 
 
 ![image alt](https://github.com/isaacayeni225/My-Daily-Expenses-Tracker/blob/aaf7e3e69d39100623283062599916a443aecad5/APRIL.png)
 
 
-### Total expenses for the month of May, 2024.
+
+
+### Total expenses for the month of May, 2025.
+
 
 
 ![image alt](https://github.com/isaacayeni225/My-Daily-Expenses-Tracker/blob/cc3e02b4344ed49d0e23f4e45cca7ca0feba1433/MAY2.png)
 
 
-### Total expenses for the month of June, 2024.
+
+
+### Total expenses for the month of June, 2025.
+
 
 
 ![image alt](https://github.com/isaacayeni225/My-Daily-Expenses-Tracker/blob/2a4838439321c18b8683c698fad07b2ac48f663d/JUNE.png)
+
+
 
 
 
@@ -70,10 +94,11 @@ Key findings were visualized using Power BI, creating an interactive dashboard t
 
 
 
+![image alt](https://github.com/isaacayeni225/My-Daily-Expenses-Tracker/blob/a8eefc31cd6c8dffb80575905f88b8d9d3539d59/Screenshot%20(14).png)
 
-### Insights and Recommendations
-Key Findings
-In Q1 2024, mobile data and miscellaneous expenses accounted for 16% of total expenses. However, this decreased to 8% in Q2 2024.
+
+
+
 
 ### Recommendations
 To optimize my expenses, I considered the following:
