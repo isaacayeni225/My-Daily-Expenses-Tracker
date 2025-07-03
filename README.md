@@ -25,6 +25,11 @@ Key findings were visualized using Power BI, creating an interactive dashboard t
 - May: ₦76,520
 - June: ₦73,890
 
+#### Visual Analysis and Inference
+
+Total expenses for the month of January, 2024.
+
+
 #### Insights and Recommendations
 Key Findings
 In Q1 2024, mobile data and miscellaneous expenses accounted for 16% of total expenses. However, this decreased to 8% in Q2 2024.
