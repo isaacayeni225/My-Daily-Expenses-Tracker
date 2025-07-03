@@ -54,6 +54,12 @@ Key findings were visualized using Power BI, creating an interactive dashboard t
 ### Total expenses for the month of May, 2024.
 
 
+![image alt](https://github.com/isaacayeni225/My-Daily-Expenses-Tracker/blob/cc3e02b4344ed49d0e23f4e45cca7ca0feba1433/MAY2.png)
+
+
+### Total expenses for the month of June, 2024.
+
+
 ![image alt](
 
 ### Insights and Recommendations
