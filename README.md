@@ -42,7 +42,7 @@ Key findings were visualized using Power BI, creating an interactive dashboard t
 ### Total expenses for the month of March, 2024.
 
 
-
+![image alt](https://github.com/isaacayeni225/My-Daily-Expenses-Tracker/blob/90b9e36dc745194f957b7a93976697e674e3b952/MAR.png)
 
 ### Insights and Recommendations
 Key Findings
