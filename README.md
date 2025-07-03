@@ -28,7 +28,7 @@ Key findings were visualized using Power BI, creating an interactive dashboard t
 #### Visual Analysis and Inference
 
 Total expenses for the month of January, 2024.
-
+![image alt](https://github.com/isaacayeni225/My-Daily-Expenses-Tracker/blob/014bbe2c334e1003f77676f7af72f56ff7f0f97c/JAN.png)
 
 #### Insights and Recommendations
 Key Findings
